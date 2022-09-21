@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <div className={media}>
-        {media === "pc" ? "데스크탑" : "모바일"}
+        {media === "pc" ? "PC screen" : "Mobile screen"}
       </div>
     </div>
   );
