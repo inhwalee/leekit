@@ -29,6 +29,6 @@ function App() {
 
 ### Arguments
 
-| Argument |          Example           | Required |    Default value    |
-| :------: | :------------------------: | :------: | :-----------------: |
-| minWidth | { minWidth: 'your value' } |    -     | { minWidth: '721' } |
+| Argument |     return  | Required |    Default Argument    |
+| :------: | :------: | :------: | :-----------------: |
+|  { minWidth: 'your value' } |'pc' \| 'mobile'  |    -     | { minWidth: '721' } |
