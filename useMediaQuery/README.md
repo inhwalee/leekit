@@ -31,4 +31,4 @@ function App() {
 
 | Argument |          Example           | Required |    Default value    |
 | :------: | :------------------------: | :------: | :-----------------: |
-| minWidth | { minWidth: 'your value' } |    -     | { minWidth: '720' } |
+| minWidth | { minWidth: 'your value' } |    -     | { minWidth: '721' } |

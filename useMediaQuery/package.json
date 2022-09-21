@@ -1,6 +1,6 @@
 {
   "name": "@leekit/use-media-query",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "React Hook for responsive design",
   "main": "index.js",
   "repository": {
