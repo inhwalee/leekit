@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const useMediaQuery = ({ minWidth = '721' }) => {
+export const useMediaQuery = ({ minWidth = "721" }) => {
   const [media, setMedia] = useState();
 
   useEffect(() => {
@@ -18,5 +18,3 @@ const useMediaQuery = ({ minWidth = '721' }) => {
 
   return media;
 };
-
-export default useMediaQuery;

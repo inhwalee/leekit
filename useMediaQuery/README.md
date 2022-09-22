@@ -12,7 +12,7 @@ npm i @leekit/use-mediq-query
 
 ```jsx
 import React from "react";
-import useFadeIn from "@leekit/use-media-query";
+import useMediaQuery from "@leekit/use-media-query";
 
 function App() {
   const media = useMediaQuery({ minWidth: "761" });
@@ -29,6 +29,6 @@ function App() {
 
 ### Arguments
 
-| Argument |     return  | Required |    Default Argument    |
-| :------: | :------: | :------: | :-----------------: |
-|  { minWidth: 'your value' } |'pc' \| 'mobile'  |    -     | { minWidth: '721' } |
+|          Argument          |      return      | Required |  Default Argument   |
+| :------------------------: | :--------------: | :------: | :-----------------: |
+| { minWidth: 'your value' } | 'pc' \| 'mobile' |    -     | { minWidth: '721' } |
